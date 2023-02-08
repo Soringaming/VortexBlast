@@ -1,0 +1,5 @@
+name: VortexBlast
+version: '${project.version}'
+main: me.soringaming.vortexblast.VortexBlast
+api-version: 1.19
+authors: [ Soringaming ]
